@@ -1,6 +1,6 @@
 ### Hi, I'm @eleapmgt 👋
 
-💼 I'm looking for an internship starting next October, as part of the OpenClassrooms JavaScript React Application Development program.
+💼 I'm looking for an internship, as part of the Wild Code School JavaScript Development program.
 
 🌱 I am currently enrolled in the OpenClassrooms Web Developer course to create and maintain dynamic websites.
 
